@@ -1,0 +1,8 @@
+{
+  "name": "ip-mail",
+  "description": "A node.js sample code that sends email to one user if the server ip changes.",
+  "author": "Paulo Cesar <pauloc062@gmail.com>",
+  "dependencies": {
+    "nodemailer": "0.0.1"
+  }
+}
